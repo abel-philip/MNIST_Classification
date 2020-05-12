@@ -12,5 +12,4 @@ Libraries used in this notebook are -
   - NumPy
 
 In this notebook, I have done variations in the same model (Sequential) by changing the hyperparameters of the model like learning rate, number of epochs, Batch size etc to test the accuracy with all these changes.
-
-The notebook was written in Google Colab which is why the formatting may not be consistent if you open thisin Jupyter. 
+ 
